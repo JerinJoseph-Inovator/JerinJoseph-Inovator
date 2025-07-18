@@ -11,8 +11,8 @@ Dive into repositories where AI/ML meets real-world impact, from architecting a 
 
 ## wanna find out more?:
 
-> * LinkedIn: [Click Here] (https://linkedin.com/in/jerinalour) 
-> * Portfolio: [Click Here] (https://jerin.cloud) 
+> * LinkedIn: [Click Here](https://linkedin.com/in/jerinalour) 
+> * Portfolio: [Click Here](https://jerin.cloud) 
 
 <!--
 **JerinJoseph-Inovator/JerinJoseph-Inovator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
